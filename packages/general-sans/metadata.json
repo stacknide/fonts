@@ -1,0 +1,20 @@
+{
+  "id": "general-sans",
+  "family": "General Sans",
+  "subsets": ["latin"],
+  "weights": [200, 300, 400, 500, 600, 700],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": {
+    "wght": {"default": "400", "min": "200", "max": "700", "step": "1"}
+  },
+  "lastModified": "2025-02-05",
+  "version": "v1",
+  "category": "sans-serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "https://www.fontshare.com/fonts/general-sans",
+    "attribution": "Frode Helland"
+  },
+  "source": "https://www.fontshare.com/fonts/general-sans"
+}

@@ -1,0 +1,31 @@
+$id: 'general-sans';
+$family: 'General Sans';
+$category: sans-serif;
+$subsets: (latin);
+$weights: (200, 300, 400, 500, 600, 700);
+$styles: (italic, normal);
+$axes: (
+  wght: (
+    default: 400,
+    min: 200,
+    max: 700,
+    step: 1,
+  ),
+);
+$defaults: (
+  subset: latin,
+  weight: 400,
+  style: normal,
+  axis: null,
+);
+
+$metadata: (
+  id: $id,
+  family: $family,
+  category: $category,
+  subsets: $subsets,
+  weights: $weights,
+  styles: $styles,
+  axes: $axes,
+  defaults: $defaults,
+) !default;
